@@ -1,0 +1,44 @@
+commit 82c7f6f26ed639cedd26fa48b1f4464316a9ddf0
+Author: V@D91 <m.4.r@yandex.ua>
+Date:   Sun Nov 8 12:23:30 2015 +0200
+
+    Revert "Wrong commit"
+    
+    This reverts commit 17240dea1a045641c3ad3f6cffae159e8127d514.
+
+commit 17240dea1a045641c3ad3f6cffae159e8127d514
+Author: V@D91 <m.4.r@yandex.ua>
+Date:   Sun Nov 8 12:04:17 2015 +0200
+
+    Wrong commit
+
+commit 92d98138c407f488b6089524794d3e5ac2bc7416
+Merge: 257b8d7 db38de0
+Author: V@D91 <m.4.r@yandex.ua>
+Date:   Sun Nov 8 12:02:35 2015 +0200
+
+    Merge branch 'master' of https://github.com/vad91/blog
+
+commit db38de0d9e819e6d98b6e4a7a22ed4db68c699a2
+Author: V@D91 <m.4.r@yandex.ua>
+Date:   Sun Nov 8 11:58:15 2015 +0200
+
+    With reseted head
+
+commit 257b8d766ae0dd37fa43aa549585628160b70661
+Author: V@D91 <m.4.r@yandex.ua>
+Date:   Sun Nov 8 11:55:23 2015 +0200
+
+    Added test dir
+
+commit f119955dca1698a00bb7b232be6372ad25eafcb6
+Author: V@D91 <m.4.r@yandex.ua>
+Date:   Sun Nov 8 11:51:04 2015 +0200
+
+    added Desc
+
+commit 1b779cdf3d86189c61220cb7b794b494b9e29c2c
+Author: V@D91 <m.4.r@yandex.ua>
+Date:   Thu Dec 11 22:09:35 2014 +0200
+
+    CLEAN DRUPAL
